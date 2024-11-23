@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 Nov 2024 15:30:42 at https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet https://dom-studios-skibidi-multiverse.fandom.com/wiki/The_Alliance? https://dom-studios-skibidi-multiverse.fandom.com/wiki/Episodes https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Items https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Locations https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Characters https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Characters?from=Non-Toilets +https://dom-studios-skibidi-multiverse.fandom.com/wiki/* -*.png -*.gif -*.jpg -*.jpeg -*.css -*.js -ad.doubleclick.net/*
+(winhttrack -qir2C2%Ps0u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet https://dom-studios-skibidi-multiverse.fandom.com/wiki/The_Alliance? https://dom-studios-skibidi-multiverse.fandom.com/wiki/Episodes https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Items https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Locations https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Characters https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Characters?from=Non-Toilets -O1 "C:\Archived Wikis\Skibidi Toilet Multiverse\Skibidi Multiverse Wiki" +https://dom-studios-skibidi-multiverse.fandom.com/wiki/* -*.png -*.gif -*.jpg -*.jpeg -*.css -*.js -ad.doubleclick.net/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:47:24	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Mutant_Pyro_Juggernaut_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+15:47:24	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Jason_Vorhees_Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+15:47:31	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Dolly_Quad-Arm_Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:02:20	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Cuckcoo_Clockman (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:06:41	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Cameramen (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:12:06	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Speakermen (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:21:38	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Masters_Assistant (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:24:16	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Not_up_to_standard (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:30:23	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Season_03 (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:35:51	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Talk:Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:36:02	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Firework_Rocket_Launcher_Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:36:04	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Normal_Heavy_Duty_Vision_Goggles_Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:36:04	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Normal_Quad_Glasses_Launcher_Skibidi_Toilet (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:36:05	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Astro_Toilets (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Skibidi_Toilet)
+16:36:07	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Talk:The_Alliance (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/The_Alliance)
+16:36:08	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Clock_disk (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/The_Alliance)
+16:36:17	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Talk:Episodes (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Episodes)
+16:36:22	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category_talk:Items (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Items)
+16:36:25	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category_talk:Locations (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Locations)
+16:36:26	Error: 	"Not Found" (404) at link https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category_talk:Characters (from https://dom-studios-skibidi-multiverse.fandom.com/wiki/Category:Characters)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 6 minutes 15 seconds : 507 links scanned, 487 files written (140237226 bytes overall), 8 files updated [1631192 bytes received at 410 bytes/sec], 6823803 bytes transferred using HTTP compression in 123 files, ratio 18%, 2.0 requests per connection
+(20 errors, 0 warnings, 0 messages)

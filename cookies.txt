@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fandom.com	TRUE	/	FALSE	1999999999	wikia_beacon_id	0YuRe_9n29
+.fandom.com	TRUE	/	FALSE	1999999999	_b2	i3h5QbedJa.1732299730219
+.fandom.com	TRUE	/	FALSE	1999999999	exp_bucket	64
+.fandom.com	TRUE	/	FALSE	1999999999	exp_bucket_2	v2-33
+.fandom.com	TRUE	/	FALSE	1999999999	Geo	{%22region%22:%22MO%22%2C%22city%22:%22montevideo%22%2C%22country_name%22:%22uruguay%22%2C%22country%22:%22UY%22%2C%22continent%22:%22SA%22}
+dom-studios-skibidi-multiverse.fandom.com	TRUE	/	FALSE	1999999999	SameSite	None
+
